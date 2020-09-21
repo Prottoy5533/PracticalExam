@@ -1,0 +1,11 @@
+D:\Code\API\testapi\testapi.Framework\bin\Debug\netcoreapp3.1\testapi.Data.dll
+D:\Code\API\testapi\testapi.Framework\obj\Debug\netcoreapp3.1\testapi.Framework.csprojAssemblyReference.cache
+D:\Code\API\testapi\testapi.Framework\obj\Debug\netcoreapp3.1\testapi.Framework.AssemblyInfoInputs.cache
+D:\Code\API\testapi\testapi.Framework\obj\Debug\netcoreapp3.1\testapi.Framework.AssemblyInfo.cs
+D:\Code\API\testapi\testapi.Framework\bin\Debug\netcoreapp3.1\testapi.Framework.deps.json
+D:\Code\API\testapi\testapi.Framework\bin\Debug\netcoreapp3.1\testapi.Framework.dll
+D:\Code\API\testapi\testapi.Framework\bin\Debug\netcoreapp3.1\testapi.Framework.pdb
+D:\Code\API\testapi\testapi.Framework\bin\Debug\netcoreapp3.1\testapi.Data.pdb
+D:\Code\API\testapi\testapi.Framework\obj\Debug\netcoreapp3.1\testapi.Framework.csproj.CopyComplete
+D:\Code\API\testapi\testapi.Framework\obj\Debug\netcoreapp3.1\testapi.Framework.dll
+D:\Code\API\testapi\testapi.Framework\obj\Debug\netcoreapp3.1\testapi.Framework.pdb
